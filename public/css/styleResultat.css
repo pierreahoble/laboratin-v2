@@ -1,0 +1,48 @@
+#tete{
+    text-align: center;
+   padding-left: 50px;
+   padding-right: 50px;
+   font-weight: 50;
+   /* margin-left: 50px; */
+}
+
+#tete,thead,th{
+    font-size: small;
+}
+
+.grille{
+    display: inline-block;
+    width: 300px; 
+    height: 50px;
+    /* padding: 2px; */
+}
+
+hr{
+    /* height: 2px;  */
+    color: #839D2D; 
+    background-color: #839D2D;
+    width: 100%;
+    /* border: none; */
+}
+
+
+#tableInfo{
+    border: medium solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr, td,th{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+#table2,thead{
+    border: 1px solid black;
+    /* padding: 10px; */
+}
+
+#text{
+    text-align: center;
+    border: medium solid black;
+}
